@@ -15,7 +15,7 @@ I'm Azhdan Yulmi, a Back-End Java/Spring Boot Developer with a passion for build
 My immediate goals are to complete my Master's degree in Software Engineering and secure a rewarding position as a software developer. I'm excited to contribute to meaningful projects and continue my journey of learning and innovation.
 
 ## Get in Touch
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/azhdan-y-332541116/)
+- LinkedIn: [Azhdan Yulmi](https://www.linkedin.com/in/azhdan-y-332541116/)
 
 ## Contributions and Projects
 I'm actively working on projects related to Java, Spring Boot, and Python/Django. Feel free to explore my repositories to see some of the exciting projects I've been working on!
