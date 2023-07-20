@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Azhdan Yulmi
 
-![GitHub followers](https://img.shields.io/github/followers/AzhdanYulmi?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)
+![GitHub followers](https://img.shields.io/github/followers/AzhdanYulmi?style=social)
 
 ## About Me
 I'm Azhdan Yulmi, a Back-End Java/Spring Boot Developer with a passion for building robust and scalable applications. Currently pursuing my Master's degree in Software Engineering, I am eager to learn and grow as a software developer while honing my skills in Java/Spring Boot and Python/Django.
